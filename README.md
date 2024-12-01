@@ -1,6 +1,6 @@
 # Bullmq and Microservices with NestJS
 
-This repository contains examples and studies on how to build an **microservices** using **NestJS** and **BullMQ**. Its purpose is to provide a foundation for learning about orchestrating asynchronous tasks with queues.
+### This repository contains example and studies on how to build an **microservices** using **NestJS** and **BullMQ**. Its purpose is to provide a foundation for learning about orchestrating asynchronous tasks with queues.
 ---
 
 ## Table of Contents
@@ -26,9 +26,9 @@ You can learn about how to:
 ## Technologies Used
 
 - **NestJS** – Framework for building microservices.
-- **Docker** – For containerizing the services.
 - **BullMQ** – For managing queues and asynchronous jobs.
 - **Redis** – Used as a broker for BullMQ.
+- **Docker** – For containerizing the services.
 
 ---
 
