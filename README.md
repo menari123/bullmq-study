@@ -75,6 +75,6 @@ Now, the project should be running locally.
 
 ## Usage
 
-- The **HTTP microservice** is available at `http://localhost:3000`.
-- The **TCP microservice** is available on port `3001` and can be accessed using a TCP client.
+- The **HTTP microservice** is available at `http://localhost:3001`.
+- The **TCP microservice** is available on port `3002` and can be accessed using a TCP client.
 
